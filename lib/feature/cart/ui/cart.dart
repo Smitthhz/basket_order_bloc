@@ -2,7 +2,6 @@ import 'package:bloc_app/feature/cart/ui/cart_tile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../home/ui/product_tile.dart';
 import '../bloc/cart_bloc.dart';
 
 class Cart extends StatefulWidget {
